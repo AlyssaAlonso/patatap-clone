@@ -3,4 +3,4 @@
 
 # Press any key, A to Z, and turn up your volume: https://alyssaalonso.github.io/patatap-clone/
 
-#Sounds Source: https://github.com/jonobr1/Neuronal-Synchrony
+Sounds Source: https://github.com/jonobr1/Neuronal-Synchrony
